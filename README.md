@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @virgoan
+- 👀 I’m interested in ... coding & design
+- 🌱 I’m currently learning ... web design
+- 💞️ I’m looking to collaborate on ... learning
+- 📫 How to reach me ... here
